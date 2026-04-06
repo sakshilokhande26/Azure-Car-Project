@@ -1,0 +1,9 @@
+{
+	"name": "sl-adf-car",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ed7e978-bd9e-49a8-b832-0e7932857531",
+		"tenantId": "24457472-d83c-4ae5-b186-e62fb519cd9a"
+	}
+}
